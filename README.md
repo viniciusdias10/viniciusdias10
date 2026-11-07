@@ -1,3 +1,9 @@
+<p align="center">
+  <a href="https://github.com/vpaes053">
+    <img src="https://raw.githubusercontent.com/vpaes053/vpaes053/main/banner.png" alt="Banner Vinícius Paes" width="100%" />
+  </a>
+</p>
+
 <h1 align="center">👋 Olá, mundo! Eu sou o Vinícius Paes</h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vpaes053&color=blueviolet&style=flat-square" alt="vpaes053" />
@@ -35,27 +41,5 @@
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Bubble.io-001E4D?style=for-the-badge&logo=bubble&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
----
-
-### 📊 Meus Principais Projetos
-
-* **[NEXUS](https://github.com/vpaes053)**: Portal web interativo com tema espacial, contando com síntese de som ambiente em tempo real via Web Audio API, animações baseadas em scroll e design em glassmorphism.
-* **[Maker SVG (Blob Maker)](https://github.com/vpaes053)**: Gerador em tempo real de formas orgânicas em SVG com edição de pontos vetoriais, animações de morphing e integração com Firebase.
-* **[OrçaPro](https://github.com/vpaes053)**: Aplicação full-stack no-code desenvolvida em Bubble.io voltada para a gestão inteligente de orçamentos e arquitetura de dados relacionais para marcenarias.
-
----
-
-### 📈 Estatísticas do GitHub
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vpaes053&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpaes053&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <img src="
+  
